@@ -1,6 +1,8 @@
 # AIML-2025
 # A.Naga Rishik Reddy 
+
 #Artifial intelligence and machine learning lab instruction sheets
+
 1. [Lab 01](https://github.com/2303a51089/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Libraries-Numpy
 2. [Lab 02](https://github.com/2303a51089/AIML-2025/blob/main/AIML_A2%20(1).pdf): Implement AI Search
 3. [Lab 03](https://github.com/2303a51089/AIML-2025/blob/main/AIML_A3.pdf): Implement AI Game Strategy
